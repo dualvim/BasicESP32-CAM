@@ -28,7 +28,7 @@
 	
 
 ## Pictures:         
-![Image 2 - ESP32-CAM programming](./Pic01_ESP32-CAM_Programming.png)         
+![Image 2 - ESP32-CAM programming](./Pic03_ESP32-CAM_running.jpg)         
         
  - The picture above shows the ESP32-CAM in programming mode, using a FT232R programmer module.           
  - Don't forget to connect the `IO0` and `GND` pins of the ESP32-CAM (yellow wire in the picture abore).        
